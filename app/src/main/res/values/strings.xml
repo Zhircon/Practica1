@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertidor de Grados</string>
+    <string name="button_text">Convertir</string>
+    <string name="number_placeholder_text">Ingrese un el grado e.j 7.4</string>
+    <string name="instructions_text">Ingrese los grados a convetir</string>
+    <string name="radio_convert_to_celsius_text">Fahrenheit a Celcius</string>
+    <string name="request_input_text">Ingresa una numero</string>
+</resources>
